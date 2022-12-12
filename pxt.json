@@ -1,0 +1,28 @@
+{
+    "name": "Untitled",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "pxt-kitronik-robotics-board": "github:kitronikltd/pxt-kitronik-robotics-board#V0.0.6",
+        "scrollbit": "github:pimoroni/pxt-scrollbit#v0.0.7",
+        "pxt-kitronik-viewtext32": "github:kitronikltd/pxt-kitronik-viewtext32#v1.2.2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "5.0.12",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
